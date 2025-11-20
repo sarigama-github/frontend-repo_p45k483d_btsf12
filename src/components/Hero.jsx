@@ -39,7 +39,7 @@ export default function Hero() {
             className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white"
             style={{ transform: 'translateZ(40px)' }}
           >
-            Hi, I’m <span className="bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">Your Name</span>
+            Hi, I’m <span className="bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">Sabri A</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -48,7 +48,7 @@ export default function Hero() {
             className="mt-4 text-lg md:text-xl text-blue-100/90 max-w-xl"
             style={{ transform: 'translateZ(30px)' }}
           >
-            Creative developer focused on building delightful, performant web experiences with modern 3D, motion, and clean design.
+            Junior software engineer crafting playful, immersive web experiences with React, Three.js, and motion.
           </motion.p>
 
           <motion.div
